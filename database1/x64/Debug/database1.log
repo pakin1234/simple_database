@@ -1,0 +1,5 @@
+﻿  database1.cpp
+C:\data structures\database1\database1\database1.cpp(120,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "al_sin"
+C:\data structures\database1\database1\database1.cpp(141,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "al_sin"
+C:\data structures\database1\database1\database1.cpp(194,20): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "al_sin"
+  database1.vcxproj -> C:\data structures\database1\x64\Debug\database1.exe
